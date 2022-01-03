@@ -17,7 +17,7 @@ body{
 }
 #stage{
 	background: #000;
-	width:1280px; height:720px;
+	width:960px; height:540px;
 	position:absolute;
 	margin:auto;
 	top:0; left:0; right:0; bottom:0;
@@ -56,4 +56,3 @@ body{
 }
 #paused{
 	cursor: pointer;
-}
